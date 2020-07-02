@@ -1,7 +1,0 @@
-{
-    "emmet.includeLanguages": {
-       "javascript": "javascriptreact"
-    },
-    "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
-   "editor.tabSize": 2
- }
